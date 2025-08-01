@@ -1,0 +1,14 @@
+[project]
+name = "ocr-huggingface"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.9.0",
+    "bitsandbytes>=0.41.2.post2",
+    "datasets>=4.0.0",
+    "scikit-learn>=1.7.1",
+    "torchvision>=0.22.1",
+    "transformers>=4.54.1",
+]

@@ -1,0 +1,6 @@
+.
+user
+Extract the text from the above document as if you were reading it naturally. Return the tables in HTML format. Return LaTeX equations where present. Use <img></img> tags for images with descriptions, <signature></signature> for signatures, <watermark></watermark> for watermark text, and ☐/☑/☒ for checkbox/radio states.
+assistant
+<img src="https://www.example.com/image.png" alt="A smiling person wearing headphones and using a laptop."/></img>
+PHẦN MỀM ĐỌC VĂN BẢN TIẾNG VIỆT

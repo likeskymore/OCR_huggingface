@@ -1,0 +1,25 @@
+.
+user
+Extract the text from the above document as if you were reading it naturally. Return the tables in HTML format. Return LaTeX equations where present. Use <img></img> tags for images with descriptions, <signature></signature> for signatures, <watermark></watermark> for watermark text, and ☐/☑/☒ for checkbox/radio states.
+assistant
+THÔNG TẤN XÃ VIỆT NAM
+TÊN ĐƠN VỊ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày... tháng... năm 201...
+
+Kính gửi: Giám đốc Trung tâm Tin học
+
+Thực hiện Thông báo số 437/TB-TTX ngày 28/5/2023 của Tổng giám đốc
+Thông tấn xã Việt Nam về việc thực hiện đeo thẻ ra, vào trư sở cơ quan số 5 Lý
+Thường kiệt, Hà Nội, đề nghị Trung tâm Tin học xem xét giải quyết đổi thẻ cho
+CBNV sau :
+
+<table><tr><th>STT</th><th>Họ và tên</th><th>Chức danh</th><th>Lý do đổi thẻ</th></tr><tr><td colspan='4'></td></tr><tr><td>1</td><td>Nguyễn Văn A</td><td>Trưởng phòng</td><td>Thay đổi chức danh</td></tr><tr><td>2</td><td>Nguyễn Văn B</td><td>BTV</td><td>Chuyên đơn vị</td></tr><tr><td>3</td><td>Nguyễn Văn C</td><td>CV</td><td>Hư hỏng do lỗi thẻ</td></tr></table>
+
+Trân trọng cảm ơn./.
+
+LÂNH ĐẠO ĐƠN VỊ
+(Ký và ghi rõ họ tên)

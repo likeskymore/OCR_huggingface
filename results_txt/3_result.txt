@@ -1,0 +1,29 @@
+.
+user
+Extract the text from the above document as if you were reading it naturally. Return the tables in HTML format. Return LaTeX equations where present. Use <img></img> tags for images with descriptions, <signature></signature> for signatures, <watermark></watermark> for watermark text, and ☐/☑/☒ for checkbox/radio states.
+assistant
+<signature>
+UY BAN NHÂN DÂN
+THÀNH PHỐ HẢI PHÒNG
+</signature>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Số: 6882 /UBND-NC2
+V/v tiếp tục tăng cường công tác xử lý vi phạm hành chính trên địa bàn thành phố
+
+Hải Phòng, ngày 02 tháng 11 năm 2020
+
+Kính gửi:
+- Các Sở, ban, ngành thành phố;
+- Các cơ quan được tổ chức theo ngành dọc đóng trên địa bàn thành phố;
+- Ủy ban nhân dân các quận, huyện.
+
+<img>HOẢ TỐC</img>
+
+Thực hiện Thông báo số 3184/TB-ĐKT ngày 27/8/2020 của Bộ Tư pháp kết luận kiểm tra công tác thi hành pháp luật về xử lý vi phạm hành chính tại Ủy ban nhân dân thành phố Hải Phòng;
+
+Căn cứ tình hình thực tiễn công tác xử lý vi phạm hành chính, nhằm thực hiện công tác xử lý vi phạm hành chính trên địa bàn thành phố kịp thời, thống nhất, đảm bảo các quy định của Luật Xử lý vi phạm hành chính, Nghị định số 81/2013/NĐ-CP ngày 19/7/2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính, Nghị định số 97/2017/NĐ-CP ngày 18/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 81/2013/NĐ-CP,...và các văn bản pháp luật hướng dẫn thi hành,
+
+<img>UY BAN NHÂN DÂN THÀNH PHỐ HẢI PHÒNG</img>

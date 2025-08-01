@@ -1,0 +1,18 @@
+.
+user
+Extract the text from the above document as if you were reading it naturally. Return the tables in HTML format. Return LaTeX equations where present. Use <img></img> tags for images with descriptions, <signature></signature> for signatures, <watermark></watermark> for watermark text, and ☐/☑/☒ for checkbox/radio states.
+assistant
+Ruồi và Ong Mật
+
+Một hôm, ruồi nhìn thấy con Ong Mật đang hút mật hoa, nó nghĩ rằng hình dáng của nó và con Ong Mật giống nhau nên nó sẽ bay đến những bó hoa để lừa tình cảm, cướp lấy mật ngọt. Ruồi liền bay qua, bay lại rất nhiều lần nhưng các khóm hoa chẳng thèm để ý gì đến nó cả.
+
+Lúc này, Ruồi tự hỏi mình: “Sao không ai để ý đến mình như khi Ong Mật bay đến nhỉ?”
+
+Thấy lạ nên Ruồi quyết định bay đến chỗ Ong Mật để hỏi.
+- Tại sao hình dáng của tôi và anh giống nhau nhưng khi tôi bay qua những khóm hoa thì không ai để ý đến tôi cả? -
+Ruồi hỏi.
+
+Ong Mật đáp:
+- Tuy tôi và anh giống nhau nhưng thực tế anh là Ruồi còn tôi là Ong Mật nên không ai xem anh là Ong Mật cả.
+
+Khi ấy, Ruồi mới hiểu ra rằng tuy có vẻ ngoài giống nhau nhưng điều mà không ai có thể thay đổi được chính là bên trong.
